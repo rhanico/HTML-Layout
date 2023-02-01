@@ -2,22 +2,23 @@ html,
 body{
     margin: 0;
     padding: 0;
-    background-color:rgb(81, 48, 4);
+    background-color: rgb(141, 135, 24);
     color: whitesmoke;
 
 }
 nav{
-    background-color: rgb(81, 48, 4);
+    background-color:rgb(141, 135, 24);
     padding: 15px ;
 }
 a{
     text-decoration: none;
 }
 ul li a { 
-    color: rgb(245, 173, 6);
+    color: whitesmoke;
 }
 nav a:hover {
-    color:whitesmoke;
+    color: whitesmoke;
+    text-decoration-color: whitesmoke;
 }
 
 ul{
@@ -32,15 +33,15 @@ li{
 
 .bannerline{
     text-align: center;
-    background-color: rgb(245, 173, 6);
-    color: rgb(106, 74, 31) ;
+    background-color: rgb(156, 103, 33);
+    color: whitesmoke ;
     padding: 6px;
 }
 
 h1{
     text-align: center;
     margin-bottom: 10px;
-    color: rgb(245, 173, 6);
+    color:whitesmoke;
 }
 #logo1{
     align-items: center;
@@ -51,14 +52,14 @@ h1{
 .banner2{
 
     text-align: center;
-    background-color: rgb(245, 173, 6);
-    color: rgb(106, 74, 31) ;
+    background-color: rgb(156, 103, 33);
+    color: whitesmoke;
     padding: 6px;
     margin-top: 5px
 }
 
 h2{
-    color:rgb(245, 173, 6);
+    color:whitesmoke;
 }
 
 .set2{
@@ -95,7 +96,10 @@ h2{
 .linkmaps{
     color: rgb(245, 173, 6);
 }
-
+h3:hover {
+    color: rgb(245, 173, 6);
+    
+}
 h3 a{
     color: whitesmoke;
 }
