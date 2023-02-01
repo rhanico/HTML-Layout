@@ -85,8 +85,9 @@ h2{
     margin-left: 100px;
 }
 #maps{
-    height: 350px;
-    width: 400px;
+    height: 250px;
+    width: 300px;
+    margin-top: 10px;
 }
 
 .linkmap{
